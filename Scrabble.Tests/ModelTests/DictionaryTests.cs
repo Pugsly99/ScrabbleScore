@@ -11,6 +11,7 @@ namespace Scrabble.Tests
     {
       int output = scoreDictionary["Z"];
       Assert.AreEqual(10, output);
+      
     }
   }
 }
